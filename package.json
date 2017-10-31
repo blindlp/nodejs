@@ -1,0 +1,23 @@
+{
+  "name": "nodejsfirstprogram",
+  "version": "1.0.0",
+  "description": "primer programa en nodejs",
+  "main": "NodeTutorial.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node apps.js"
+  },
+  "author": "blindlp <luispoz@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "nodejs"
+  },
+  "keywords": [
+    "nodejs",
+    "firstprogram"
+  ]
+}
